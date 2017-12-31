@@ -13,6 +13,8 @@ AngularJS Bindings for [Vibrant.js](http://jariz.github.io/vibrant.js/).
 You can install ngVibrant from bower with
 ```
 bower install angular-vibrant
+
+npm install angular-vibrant
 ```
 or download it directly from [here](https://github.com/maxjoehnk/ngVibrant/tree/master/dist).
 
